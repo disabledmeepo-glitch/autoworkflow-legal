@@ -1,3 +1,16 @@
+<head>
+  <!-- Other meta tags -->
+  
+  <!-- App Icon / Favicon -->
+  <link rel="icon" type="image/png" sizes="512x512" href="C:\Users\MyBook Hype AMD\Downloads\autoworkflowlogo.png">
+  
+  <!-- For older browsers/iOS -->
+  <link rel="apple-touch-icon" sizes="512x512" href="C:\Users\MyBook Hype AMD\Downloads\autoworkflowlogo.png">
+  
+  <!-- Title must match your App Name in TikTok Portal -->
+  <title>AutoWorkflow</title>
+</head>
+
 <style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
